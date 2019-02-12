@@ -1,3 +1,3 @@
 # About This Repo
 
-This is the repo of the official Docker images for [Artillery](https://artillery.io).
+Branched replica from https://github.com/artilleryio/artillery-docker
